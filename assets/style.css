@@ -1,0 +1,6 @@
+.footer-content__background::before {
+    content: '';
+    position: absolute;
+    background-color: teal;
+    opacity: 0.9;
+  }
